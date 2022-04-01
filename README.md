@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @rTHENATE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Piyathas](https://media.discordapp.net/attachments/944642467737788416/959423746433777684/TheNate1.png)
 
-<!---
-rTHENET/rTHENET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👉 [Personal site](https://natewebsite.vercel.app/)<br>
