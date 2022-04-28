@@ -2,23 +2,28 @@
   <img src='NateCodingX.jpg' width='250' align="left">
   <p float="left">
 
-  👋 Hi! I'm STACIA~ OwO <br>
-  ❤ Nice to meet you 
-  
-  🌱 I’m currently learning Python, Discord bot and other<br>
+  👋 Hi! I'm TheNate <br>
+  ❤ Hahaha
+
   💬 ask me about anything, i am happy to help<br>
   💜 Interests: music, video games, programing language<br>
-  🎵 I love to hear japanese music.<br>
-  ⚡ Fun fact: i like to play video games But I play a very noob xD
+  ❤  I like to search for knowledge<br>
+  ⚡ Fun fact: like to help
 
-  Image by [darumakarei](https://twitter.com/darumakarei/status/1498288587028135937) | 
-  Inspired by [instance01](https://github.com/instance01/instance01)<br>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false)
+  Image by [NateCoding](https://www.instagram.com/rt._nate/) | 
+  Inspired by [NateCoding](https://github.com/rTHENET)<br>
+  [![spotify-github-profile]()]()
   
   ## Tech Stack
   * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![VSCOCE](https://img.shields.io/badge/Visual_studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
+    ![javascript](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
+    ![PHP](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
+    ![GO](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
+    ![C](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
+    ![Lua](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
+    ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
   * ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     ![POSTSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
