@@ -12,3 +12,8 @@
 🔷 [Facebook](#)<br>
 🔶 [Youtube](#)<br>
 🔷 [Instagram](#)<br>
+
+## Support
+
+### <a href="https://discord.gg/KGcypGvq">`Discord`</a>
+### <a href="https://natewebsite.vercel.app/">`Website`</a>
