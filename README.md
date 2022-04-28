@@ -7,9 +7,9 @@
   💬 ask me about anything, i am happy to help<br>
   💜 Interests : music, video games, programing language<br>
   🤏 I am always searching for knowledge.<br>
-
+<br>
  Image by [NateCoding](https://www.instagram.com/rt._nate/) | 
- Inspired by [NateCoding](https://github.com/rTHENET)<br><br><br><br>
+ Inspired by [NateCoding](https://github.com/rTHENET)<br><br><br>
   
   ## 🚀 Skills
   * ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
