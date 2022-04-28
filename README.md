@@ -1,7 +1,7 @@
 ## 🔵 Bio
 
 - 👋 Hi, I’m [@rTHENATE](https://natewebsite.vercel.app/) Welcome to my Github profile <br><br>
-![Piyathas](https://media.discordapp.net/attachments/944642467737788416/959423746433777684/TheNate1.png)
+![Piyathas](https://media.discordapp.net/attachments/944642467737788416/963545092990328852/Untitled-4.jpg)
 
 - learning Front-End, Back-End, DevOps & more 
 - Knowledge is power.
