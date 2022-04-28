@@ -7,7 +7,7 @@
   💬 ask me about anything, i am happy to help<br>
   💜 Interests : music, video games, programing language<br>
   🤏 I am always searching for knowledge.<br>
-<br>
+<br><br>
  Image by [NateCoding](https://www.instagram.com/rt._nate/) | 
  Inspired by [NateCoding](https://github.com/rTHENET)<br><br><br>
   
