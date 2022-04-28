@@ -9,7 +9,7 @@
   🤏 I like to search for knowledge<br>
 
   Image by [NateCoding](https://www.instagram.com/rt._nate/) | 
-  Inspired by [NateCoding](https://github.com/rTHENET)<br>
+  Inspired by [NateCoding](https://github.com/rTHENET)<br>br>br>
 
   
   ## 🚀 Skills
@@ -50,15 +50,15 @@
 
   ## Support
 
-  if you like what i do, maybe consider buying me a coffee/tea 🥺<br><br>
+  if you like what i do Maybe try donating coffee/tea to me. 🥺<br><br>
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staciax)
 <!-- 
   <p  align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">  -->
-  <a href="https://github.com/staciax">
-    <img src="https://komarev.com/ghpvc/?username=staciax">
+  <a href="https://github.com/rTHENET">
+    <img src="https://media.discordapp.net/attachments/944642467737788416/959423746433777684/TheNate1.png">
 </a>
-<a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rTHENET?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
