@@ -55,7 +55,7 @@
   <p  align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">  -->
   <a href="https://github.com/rTHENET">
-    <img src="https://media.discordapp.net/attachments/944642467737788416/959423746433777684/TheNate1.png">
+    <img src="">
 </a>
 <a href="https://github.com/rTHENET?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
 
