@@ -3,16 +3,14 @@
   <p float="left">
 
   👋 Hi! I'm TheNate <br>
-  ❤ Hahaha
 
   💬 ask me about anything, i am happy to help<br>
   💜 Interests: music, video games, programing language<br>
-  ❤  I like to search for knowledge<br>
-  ⚡ Fun fact: like to help
+  🤏 I like to search for knowledge<br>
 
   Image by [NateCoding](https://www.instagram.com/rt._nate/) | 
   Inspired by [NateCoding](https://github.com/rTHENET)<br>
-  [![spotify-github-profile]()]()
+
   
   ## 🚀 Skills
   * ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
