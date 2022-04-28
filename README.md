@@ -2,14 +2,14 @@
   <img src='NateCodingX.jpg' width='250' align="left">
   <p float="left">
 
-  👋 Hi! I'm TheNate <br>
+  🐵 Hi! I'm TheNate <br>
 
   💬 ask me about anything, i am happy to help<br>
   💜 Interests : music, video games, programing language<br>
   🤏 I am always searching for knowledge.<br>
 
  Image by [NateCoding](https://www.instagram.com/rt._nate/) | 
- Inspired by [NateCoding](https://github.com/rTHENET)<br><br><br>
+ Inspired by [NateCoding](https://github.com/rTHENET)<br><br><br><br>
   
   ## 🚀 Skills
   * ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,7 +47,7 @@
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
 
-  ## Support
+  ## 🐰 Support
 
   if you like what i do Maybe try donating coffee/tea to me. 🥺<br><br>
 <!-- 
