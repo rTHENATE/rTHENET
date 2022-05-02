@@ -9,7 +9,7 @@
   🤏 I am always searching for knowledge.<br>
 <br><br>
  Image by [NateCoding](https://www.instagram.com/rt._nate/) | 
- Inspired by [Patiphan Phengpao](https://www.youtube.com/c/PatiphanPhengpao)<br><br><br>
+ Inspired by [Patiphan Phengpao](https://www.youtube.com/c/PatiphanPhengpao)<br><br><br><br>
   
   ## 🚀 Skills
   * ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
