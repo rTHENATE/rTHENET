@@ -9,21 +9,20 @@
   🤏 I am always searching for knowledge.<br> -->
   
   
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="NateCodingX.jpg" alt="made by NateCoding (https://www.instagram.com/rt._nate/)" width="320" /> 
 
 ```csharp
-ayushsehrawat@github
+Natecoding@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
+OS: windowe Mac OS 
 Pronouns: He/Him
-Location: Delhi, India
-Frameworks: Flask, Django, FastAPI, Quart
+Location: Thai
+Frameworks: Django, FastAPI, Quart
 Languages: Python,JavaScript,
-           HTML, CSS
-Learning: mongoDB, Node.js PostgreSQL,
-          CPP
-Hobbies: Reading, manga
+           HTML, CSS, C#, GO, Swift
+Learning: mongoDB, SQL,
+
+Hobbies: Reading, exercise
 Discord: Mini#5183
 ```
 <br><br>
