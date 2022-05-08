@@ -9,7 +9,7 @@ Location: Thai
 Frameworks: Django, FastAPI, Quart
 Languages: Python,JavaScript,
            HTML, CSS, C#, GO, Swift
-Learning: mongoDB, SQL,
+Learning: mongoDB, SQL, ruby
 Hobbies: Reading, exercise
 Discord: Mini#5183
 ```
