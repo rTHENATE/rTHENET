@@ -1,4 +1,4 @@
-<img align="left" src="NateCodingX.jpg" alt="made by NateCoding (https://www.instagram.com/rt._nate/)" width="320" /> 
+<img align="left" src="NateCodingX.jpg" alt="made by NateCoding (https://www.instagram.com/rt._nate/)" width="320" hight="300" /> 
 
 
 ```csharp
@@ -11,7 +11,7 @@ Languages: Python,JavaScript,
            HTML, CSS, C#, GO, Swift
 Learning: mongoDB, SQL, ruby
 Hobbies: Reading, exercise
-Discord: Mini#5183
+Discord: 𝐓𝐡𝐞𝐍𝐚𝐭𝐞#5026
 ```
 <br><br>
 
