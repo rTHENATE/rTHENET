@@ -15,7 +15,6 @@
 Natecoding@github
 -------------------------
 OS: windowe Mac OS 
-Pronouns: He/Him
 Location: Thai
 Frameworks: Django, FastAPI, Quart
 Languages: Python,JavaScript,
