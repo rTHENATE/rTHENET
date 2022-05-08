@@ -1,4 +1,4 @@
-<img align="left" src="NateCodingX.jpg" alt="made by NateCoding (https://www.instagram.com/rt._nate/)" width="320" hight="300" /> 
+<img align="left" src="NateCodingX.jpg" alt="made by NateCoding (https://www.instagram.com/rt._nate/)" width="320" hight="200" /> 
 
 
 ```csharp
