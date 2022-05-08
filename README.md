@@ -10,8 +10,9 @@
   
   
 <img align="left" src="NateCodingX.jpg" alt="made by NateCoding (https://www.instagram.com/rt._nate/)" width="320" /> 
-<br><br>
+
 ```csharp
+<br><br>
 Natecoding@github
 
 OS: windowe Mac OS 
