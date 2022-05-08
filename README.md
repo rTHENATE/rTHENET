@@ -13,14 +13,13 @@
 
 ```csharp
 Natecoding@github
--------------------------
+
 OS: windowe Mac OS 
 Location: Thai
 Frameworks: Django, FastAPI, Quart
 Languages: Python,JavaScript,
            HTML, CSS, C#, GO, Swift
 Learning: mongoDB, SQL,
-
 Hobbies: Reading, exercise
 Discord: Mini#5183
 ```
