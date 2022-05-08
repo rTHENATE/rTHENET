@@ -1,18 +1,7 @@
-<!-- <p float="left">
-  <img src='NateCodingX.jpg' width='250' align="left">
-  <p float="left">
-
-  🐵 Hi! I'm TheNate <br>
-
-  💬 ask me about anything, i am happy to help<br>
-  💜 Interests : music, video games, programing language<br>
-  🤏 I am always searching for knowledge.<br> -->
-  
-  
 <img align="left" src="NateCodingX.jpg" alt="made by NateCoding (https://www.instagram.com/rt._nate/)" width="320" /> 
 
+
 ```csharp
-<br><br>
 Natecoding@github
 
 OS: windowe Mac OS 
